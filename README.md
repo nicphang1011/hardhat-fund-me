@@ -6,7 +6,7 @@ The project comes with a sample contract, a test for that contract, a sample scr
 
 The use case of this project is to create smart contracts and scripts for deployment of said contracts in order to allow for crowdfunding. 
 - Contract can be funded
-- User can withdraw funds
+- Contract owner can withdraw funds
 
 Try running some of the following tasks:
 
